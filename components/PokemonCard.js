@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
           shadowRadius: 4,
         },
         android: {
-          elevation: 7,
+          elevation: 12,
         },
       }),
     },
@@ -132,4 +132,3 @@ const styles = StyleSheet.create({
         fontWeight: 'bold',
     },
   });
-  
